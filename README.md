@@ -9,7 +9,7 @@
 
 ## <pre> Dive into the realm of AI, and discover what drives you to be more curious, beyond..
    
-<pre>  <img align=left width=790px height=419px src="https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/544118/1089264930379005959/1089264930379005959.png?x-ocs-process=image/format,webp/resize,w_1584" />
+<pre>  <img align=left width=775px height=419px src="https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/544118/1089264930379005959/1089264930379005959.png?x-ocs-process=image/format,webp/resize,w_1584" />
     An AI MERN App that can generate everything from memes and art to beautiful UI/UX designs! 
     Alongside building this application, I've implemented the most modernized tools: 
           `Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack. 
