@@ -22,7 +22,7 @@ app.get('/', async (req, res) => {
 const startServer = async () => {
   try {
     connectDB(process.env.MONGO_URL)
-    app.listen(8090, () => console.log('Server has started on link - https://dall-e-ncr8.onrender.com/ '))
+    app.listen(8080, () => console.log('Server has started on link - https://dall-e-ncr8.onrender.com/ '))
   } catch (error) {
     console.log(error)
   }
